@@ -1,0 +1,12 @@
+.banner-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 85vh;
+    transform: skewY(-4deg);
+    font-size: 5em;
+    color: #121212;
+    text-shadow: #aaaaaa 0.1em  0.1em,
+                 #cccccc 0.2em 0.2em,
+                 #eeeeee 0.3em 0.3em;
+}
